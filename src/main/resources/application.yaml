@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Spring-Security
+
+
+
+server:
+  port: 8888
+
